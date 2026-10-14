@@ -4,7 +4,7 @@ metadata:
  name: mydeploy
  namespace: naa
 spec:
-  replicas: 2
+  replicas: 3
   strategy: {} 
   selector: 
    matchLabels:
